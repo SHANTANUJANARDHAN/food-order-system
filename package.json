@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "firebase": "^11.4.0",
+    "razorpay": "^2.9.6",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "food_ordering_web",
+  "version": "1.0.0",
+  "description": "![WhatsApp Image 2024-07-31 at 12 14 34_7f6a556a](https://github.com/user-attachments/assets/06f6422f-2fa0-4b6f-a6b1-ff1fce770392)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Arcade/Food_ordering_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Arcade/Food_ordering_web/issues"
+  },
+  "homepage": "https://github.com/Code-Arcade/Food_ordering_web#readme"
+}

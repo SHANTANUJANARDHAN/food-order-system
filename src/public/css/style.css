@@ -1,0 +1,94 @@
+/food_ordering_web/src/public/css/style.css
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.navbar {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.navbar-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navbar-menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar-menu ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background: #e30000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background: #c20000;
+}
+
+.tbl-full {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+.tbl-full th, .tbl-full td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.tbl-full th {
+    background: #35424a;
+    color: #ffffff;
+}
+
+.footer {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.copyright {
+    background: #222;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.social-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-links ul li {
+    display: inline;
+    margin-right: 10px;
+}
