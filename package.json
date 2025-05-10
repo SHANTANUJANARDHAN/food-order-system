@@ -17,13 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Code-Arcade/Food_ordering_web.git"
+    "url": "git+https://github.com/SHANTANUJANARDHAN/food-order-system.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Code-Arcade/Food_ordering_web/issues"
+    "url": "https://github.com/SHANTANUJANARDHAN/food-order-system/issues"
   },
-  "homepage": "https://github.com/Code-Arcade/Food_ordering_web#readme"
+  "homepage": "https://github.com/SHANTANUJANARDHAN/food-order-system#readme",
+  "devDependencies": {}
 }
